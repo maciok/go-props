@@ -1,0 +1,11 @@
+.idea
+
+# @todo check this
+*.sublime-workspace
+*.sublime-project
+.vscode/*
+
+*.o
+*.a
+*.so
+*.exe
